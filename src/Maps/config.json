@@ -1,0 +1,12 @@
+{
+    "token": "pk.eyJ1Ijoia2FsYWdlbWV0IiwiYSI6ImNranBqaTl0bzM2ejMyeG83YjIyMTNlaDIifQ.1XsolldXMMHRCmQ1yfWHow",
+    "styles": "mapbox://styles/mapbox/streets-v9",
+    "zoom": [14],
+    "logoPosition":"bottom-left",
+    "container": {
+      "position": "absolute",
+      "height": "100%",
+      "width": "100%",
+      "flex": 1
+    }
+  }
