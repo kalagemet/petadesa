@@ -1,726 +1,596 @@
 [
-    {
-        "county": "KENSINGTON AND CHELSEA",
-        "numberOfHouses": 248,
-        "averagePrice": 1701187,
-        "minPrice": 10000,
-        "maxPrice": 29000000,
-        "latlng": [
-            109.6834, -7.2854
-        ],
-        "priceIndicator": 3.8941863739060967
-    },
-    {
-        "county": "BRENT",
-        "numberOfHouses": 358,
-        "averagePrice": 659674,
-        "minPrice": 32180,
-        "maxPrice": 19000000,
-        "latlng": [
-            109.6824, -7.2867
-        ],
-        "priceIndicator": 3.5100594479149736
-    },
-    {
-        "county": "GREENWICH",
-        "numberOfHouses": 388,
-        "averagePrice": 497237,
-        "minPrice": 14500,
-        "maxPrice": 12005000,
-        "latlng": [
-            109.6819, -7.2859
-        ],
-        "priceIndicator": 3.1382249864370853
-    },
-    {
-        "county": "REDBRIDGE",
-        "numberOfHouses": 353,
-        "averagePrice": 491970,
-        "minPrice": 17000,
-        "maxPrice": 12280000,
-        "latlng": [
-            109.6845, -7.2884
-        ],
-        "priceIndicator": 3.126168299176153
-    },
-    {
-        "county": "BROMLEY",
-        "numberOfHouses": 522,
-        "averagePrice": 512047,
-        "minPrice": 12000,
-        "maxPrice": 6000000,
-        "latlng": [
-            109.6812, -7.2830
-        ],
-        "priceIndicator": 3.1721265505787988
-    },
-    {
-        "county": "KINGSTON UPON THAMES",
-        "numberOfHouses": 263,
-        "averagePrice": 628576,
-        "minPrice": 23000,
-        "maxPrice": 4870000,
-        "latlng": [
-            109.6815, -7.2841
-        ],
-        "priceIndicator": 3.4365839309790707
-    },
-    {
-        "county": "TOWER HAMLETS",
-        "numberOfHouses": 400,
-        "averagePrice": 625280,
-        "minPrice": 15500,
-        "maxPrice": 23000000,
-        "latlng": [
-            109.6852, -7.2870
-        ],
-        "priceIndicator": 3.4313052674468444
-    },
-    {
-        "county": "LAMBETH",
-        "numberOfHouses": 530,
-        "averagePrice": 576100,
-        "minPrice": 18500,
-        "maxPrice": 2250000,
-        "latlng": [
-            109.6809, -7.2868        ],
-        "priceIndicator": 3.3187502432168259
-    },
-    {
-        "county": "HACKNEY",
-        "numberOfHouses": 282,
-        "averagePrice": 631662,
-        "minPrice": 12000,
-        "maxPrice": 4950000,
-        "latlng": [
-            109.6802, -7.2837
-        ],
-        "priceIndicator": 3.4459371916868062
-    },
-    {
-        "county": "ISLINGTON",
-        "numberOfHouses": 221,
-        "averagePrice": 914474,
-        "minPrice": 10000,
-        "maxPrice": 17040000,
-        "latlng": [
-            109.6849, -7.2894
-        ],
-        "priceIndicator": 3.0933220099209575
-    },
-    {
-        "county": "HAMMERSMITH AND FULHAM",
-        "numberOfHouses": 263,
-        "averagePrice": 968879,
-        "minPrice": 29500,
-        "maxPrice": 4250000,
-        "latlng": [
-            109.6860, -7.2816
-        ],
-        "priceIndicator": 3.220149568763742
-    },
-    {
-        "county": "CAMDEN",
-        "numberOfHouses": 283,
-        "averagePrice": 1389250,
-        "minPrice": 12000,
-        "maxPrice": 36061992,
-        "latlng": [
-            109.6821, -7.2866
-        ],
-        "priceIndicator": 3.180131531659391
-    },
-    {
-        "county": "HARROW",
-        "numberOfHouses": 268,
-        "averagePrice": 785404,
-        "minPrice": 20000,
-        "maxPrice": 37550000,
-        "latlng": [
-            109.6861, -7.2875
-        ],
-        "priceIndicator": 3.7978679326813172
-    },
-    {
-        "county": "SOUTHWARK",
-        "numberOfHouses": 421,
-        "averagePrice": 774566,
-        "minPrice": 15000,
-        "maxPrice": 15000000,
-        "latlng": [
-            109.6811, -7.2844
-        ],
-        "priceIndicator": 3.7730586719102306
-    },
-    {
-        "county": "BARNET",
-        "numberOfHouses": 455,
-        "averagePrice": 713198,
-        "minPrice": 10000,
-        "maxPrice": 16600000,
-        "latlng": [
-            109.6890, -7.2811
-        ],
-        "priceIndicator": 3.632581211528821
-    },
-    {
-        "county": "LEWISHAM",
-        "numberOfHouses": 456,
-        "averagePrice": 446420,
-        "minPrice": 10450,
-        "maxPrice": 1915000,
-        "latlng": [
-            109.6817, -7.2828
-        ],
-        "priceIndicator": 3.0218998152686674
-    },
-    {
-        "county": "EALING",
-        "numberOfHouses": 337,
-        "averagePrice": 631723,
-        "minPrice": 13500,
-        "maxPrice": 19000000,
-        "latlng": [
-            109.6884, -7.2825
-        ],
-        "priceIndicator": 3.446076826758658
-    },
-    {
-        "county": "RICHMOND UPON THAMES",
-        "numberOfHouses": 297,
-        "averagePrice": 851700,
-        "minPrice": 15000,
-        "maxPrice": 9850000,
-        "latlng": [
-            109.6846, -7.2899
-        ],
-        "priceIndicator": 3.949626075590645
-    },
-    {
-        "county": "HARINGEY",
-        "numberOfHouses": 228,
-        "averagePrice": 657624,
-        "minPrice": 10000,
-        "maxPrice": 2650000,
-        "latlng": [
-            109.6823, -7.2802
-        ],
-        "priceIndicator": 3.5053667938642976
-    },
-    {
-        "county": "CROYDON",
-        "numberOfHouses": 561,
-        "averagePrice": 409662,
-        "minPrice": 10000,
-        "maxPrice": 3400000,
-        "latlng": [
-            109.6836, -7.2889
-        ],
-        "priceIndicator": 0.9377570944917398
-    },
-    {
-        "county": "HAVERING",
-        "numberOfHouses": 383,
-        "averagePrice": 370460,
-        "minPrice": 17900,
-        "maxPrice": 2500000,
-        "latlng": [
-            109.6812, -7.2854
-        ],
-        "priceIndicator": 0.8480198144455915
-    },
-    {
-        "county": "SUTTON",
-        "numberOfHouses": 315,
-        "averagePrice": 400994,
-        "minPrice": 10000,
-        "maxPrice": 2000000,
-        "latlng": [
-            109.6807, -7.2866
-        ],
-        "priceIndicator": 0.9179151797057592
-    },
-    {
-        "county": "HILLINGDON",
-        "numberOfHouses": 383,
-        "averagePrice": 683689,
-        "minPrice": 25000,
-        "maxPrice": 34700000,
-        "latlng": [
-            109.6813, -7.2836
-        ],
-        "priceIndicator": 3.5650321732939914
-    },
-    {
-        "county": "WANDSWORTH",
-        "numberOfHouses": 552,
-        "averagePrice": 890353,
-        "minPrice": 10000,
-        "maxPrice": 16000000,
-        "latlng": [
-            109.6820, -7.2878
-        ],
-        "priceIndicator": 3.038106639991028
-    },
-    {
-        "county": "CITY OF WESTMINSTER",
-        "numberOfHouses": 387,
-        "averagePrice": 2184265,
-        "minPrice": 10000,
-        "maxPrice": 40250000,
-        "latlng": [
-            109.6828, -7.2841
-        ],
-        "priceIndicator": 5
-    },
-    {
-        "county": "BARKING AND DAGENHAM",
-        "numberOfHouses": 244,
-        "averagePrice": 343405,
-        "minPrice": 110000,
-        "maxPrice": 5536000,
-        "latlng": [
-            109.6885, -7.2865
-        ],
-        "priceIndicator": 0.7860882264743518
-    },
-    {
-        "county": "NEWHAM",
-        "numberOfHouses": 477,
-        "averagePrice": 445765,
-        "minPrice": 12500,
-        "maxPrice": 9135714,
-        "latlng": [
-            109.6861, -7.2891
-        ],
-        "priceIndicator": 3.020400455072988
-    },
-    {
-        "county": "HOUNSLOW",
-        "numberOfHouses": 244,
-        "averagePrice": 533088,
-        "minPrice": 15000,
-        "maxPrice": 6400000,
-        "latlng": [
-            109.6871, -7.2826
-        ],
-        "priceIndicator": 3.2202914939350307
-    },
-    {
-        "county": "WALTHAM FOREST",
-        "numberOfHouses": 335,
-        "averagePrice": 468884,
-        "minPrice": 14000,
-        "maxPrice": 4930000,
-        "latlng": [
-            109.6810, -7.2880
-        ],
-        "priceIndicator": 3.0733221472668296
-    },
-    {
-        "county": "BEXLEY",
-        "numberOfHouses": 432,
-        "averagePrice": 358218,
-        "minPrice": 11000,
-        "maxPrice": 1900000,
-        "latlng": [
-		109.6822, -7.2847
-        ],
-        "priceIndicator": 0.8199966579146761
-    },
-    {
-        "county": "MERTON",
-        "numberOfHouses": 310,
-        "averagePrice": 707758,
-        "minPrice": 13000,
-        "maxPrice": 30300000,
-        "latlng": [
-            109.6825, -7.2801
-        ],
-        "priceIndicator": 3.6201285100480025
-    },
-    {
-        "county": "ENFIELD",
-        "numberOfHouses": 310,
-        "averagePrice": 481882,
-        "minPrice": 15000,
-        "maxPrice": 7670000,
-        "latlng": [
-            109.6843, -7.2802
-        ],
-        "priceIndicator": 3.1030758630477528
-    },
-    {
-        "county": "CITY OF LONDON",
-        "numberOfHouses": 61,
-        "averagePrice": 5598625,
-        "minPrice": 25000,
-        "maxPrice": 179000000,
-        "latlng": [
-            109.6820, -7.2821
-        ],
-        "priceIndicator": 5
-    },
-    {
-        "county": "KENSINGTON AND CHELSEA",
-        "numberOfHouses": 248,
-        "averagePrice": 1701187,
-        "minPrice": 10000,
-        "maxPrice": 29000000,
-        "latlng": [
-            109.6934, -7.2754
-        ],
-        "priceIndicator": 3.8941863739060967
-    },
-    {
-        "county": "BRENT",
-        "numberOfHouses": 358,
-        "averagePrice": 659674,
-        "minPrice": 32180,
-        "maxPrice": 19000000,
-        "latlng": [
-            109.6924, -7.2767
-        ],
-        "priceIndicator": 3.5100594479149736
-    },
-    {
-        "county": "GREENWICH",
-        "numberOfHouses": 388,
-        "averagePrice": 497237,
-        "minPrice": 14500,
-        "maxPrice": 12005000,
-        "latlng": [
-            109.6919, -7.2759
-        ],
-        "priceIndicator": 3.1382249864370853
-    },
-    {
-        "county": "REDBRIDGE",
-        "numberOfHouses": 353,
-        "averagePrice": 491970,
-        "minPrice": 17000,
-        "maxPrice": 12270000,
-        "latlng": [
-            109.6945, -7.2784
-        ],
-        "priceIndicator": 3.126168299176153
-    },
-    {
-        "county": "BROMLEY",
-        "numberOfHouses": 522,
-        "averagePrice": 512047,
-        "minPrice": 12000,
-        "maxPrice": 6000000,
-        "latlng": [
-            109.6912, -7.2730
-        ],
-        "priceIndicator": 3.1721265505787988
-    },
-    {
-        "county": "KINGSTON UPON THAMES",
-        "numberOfHouses": 263,
-        "averagePrice": 627576,
-        "minPrice": 23000,
-        "maxPrice": 4870000,
-        "latlng": [
-            109.6915, -7.2741
-        ],
-        "priceIndicator": 3.4365839309790707
-    },
-    {
-        "county": "TOWER HAMLETS",
-        "numberOfHouses": 400,
-        "averagePrice": 625270,
-        "minPrice": 15500,
-        "maxPrice": 23000000,
-        "latlng": [
-            109.6952, -7.2770
-        ],
-        "priceIndicator": 3.4313052674469444
-    },
-    {
-        "county": "LAMBETH",
-        "numberOfHouses": 530,
-        "averagePrice": 576100,
-        "minPrice": 18500,
-        "maxPrice": 2250000,
-        "latlng": [
-            109.6909, -7.2769        ],
-        "priceIndicator": 3.3187502432168259
-    },
-    {
-        "county": "HACKNEY",
-        "numberOfHouses": 282,
-        "averagePrice": 631662,
-        "minPrice": 12000,
-        "maxPrice": 4950000,
-        "latlng": [
-            109.6902, -7.2737
-        ],
-        "priceIndicator": 3.4459371916869062
-    },
-    {
-        "county": "ISLINGTON",
-        "numberOfHouses": 221,
-        "averagePrice": 914474,
-        "minPrice": 10000,
-        "maxPrice": 17040000,
-        "latlng": [
-            109.6949, -7.2794
-        ],
-        "priceIndicator": 3.0933220099209575
-    },
-    {
-        "county": "HAMMERSMITH AND FULHAM",
-        "numberOfHouses": 263,
-        "averagePrice": 969879,
-        "minPrice": 29500,
-        "maxPrice": 4250000,
-        "latlng": [
-            109.6960, -7.2716
-        ],
-        "priceIndicator": 3.220149569763742
-    },
-    {
-        "county": "CAMDEN",
-        "numberOfHouses": 273,
-        "averagePrice": 1389250,
-        "minPrice": 12000,
-        "maxPrice": 36061992,
-        "latlng": [
-            109.6921, -7.2766
-        ],
-        "priceIndicator": 3.180131531659391
-    },
-    {
-        "county": "HARROW",
-        "numberOfHouses": 268,
-        "averagePrice": 785404,
-        "minPrice": 20000,
-        "maxPrice": 37550000,
-        "latlng": [
-            109.6961, -7.2775
-        ],
-        "priceIndicator": 3.7978679326913172
-    },
-    {
-        "county": "SOUTHWARK",
-        "numberOfHouses": 421,
-        "averagePrice": 774566,
-        "minPrice": 15000,
-        "maxPrice": 15000000,
-        "latlng": [
-            109.6911, -7.2744
-        ],
-        "priceIndicator": 3.7730586719102306
-    },
-    {
-        "county": "BARNET",
-        "numberOfHouses": 455,
-        "averagePrice": 713198,
-        "minPrice": 10000,
-        "maxPrice": 16600000,
-        "latlng": [
-            109.6990, -7.2711
-        ],
-        "priceIndicator": 3.632581211528821
-    },
-    {
-        "county": "LEWISHAM",
-        "numberOfHouses": 456,
-        "averagePrice": 446420,
-        "minPrice": 10450,
-        "maxPrice": 1915000,
-        "latlng": [
-            109.6917, -7.2727
-        ],
-        "priceIndicator": 3.0218998152696674
-    },
-    {
-        "county": "EALING",
-        "numberOfHouses": 337,
-        "averagePrice": 631723,
-        "minPrice": 13500,
-        "maxPrice": 19000000,
-        "latlng": [
-            109.6984, -7.2725
-        ],
-        "priceIndicator": 3.446076826758658
-    },
-    {
-        "county": "RICHMOND UPON THAMES",
-        "numberOfHouses": 297,
-        "averagePrice": 851700,
-        "minPrice": 15000,
-        "maxPrice": 9850000,
-        "latlng": [
-            109.6946, -7.2799
-        ],
-        "priceIndicator": 3.949626075590645
-    },
-    {
-        "county": "HARINGEY",
-        "numberOfHouses": 227,
-        "averagePrice": 657624,
-        "minPrice": 10000,
-        "maxPrice": 2650000,
-        "latlng": [
-            109.6923, -7.2702
-        ],
-        "priceIndicator": 3.5053667938642976
-    },
-    {
-        "county": "CROYDON",
-        "numberOfHouses": 561,
-        "averagePrice": 409662,
-        "minPrice": 10000,
-        "maxPrice": 3400000,
-        "latlng": [
-            109.6936, -7.2789
-        ],
-        "priceIndicator": 0.9377570944917398
-    },
-    {
-        "county": "HAVERING",
-        "numberOfHouses": 383,
-        "averagePrice": 370460,
-        "minPrice": 17900,
-        "maxPrice": 2500000,
-        "latlng": [
-            109.6912, -7.2754
-        ],
-        "priceIndicator": 0.8480198144455915
-    },
-    {
-        "county": "SUTTON",
-        "numberOfHouses": 315,
-        "averagePrice": 400994,
-        "minPrice": 10000,
-        "maxPrice": 2000000,
-        "latlng": [
-            109.6907, -7.2766
-        ],
-        "priceIndicator": 0.9179151797057592
-    },
-    {
-        "county": "HILLINGDON",
-        "numberOfHouses": 383,
-        "averagePrice": 683689,
-        "minPrice": 25000,
-        "maxPrice": 34700000,
-        "latlng": [
-            109.6913, -7.2736
-        ],
-        "priceIndicator": 3.5650321732939914
-    },
-    {
-        "county": "WANDSWORTH",
-        "numberOfHouses": 552,
-        "averagePrice": 890353,
-        "minPrice": 10000,
-        "maxPrice": 16000000,
-        "latlng": [
-            109.6920, -7.2778
-        ],
-        "priceIndicator": 3.038106639991027
-    },
-    {
-        "county": "CITY OF WESTMINSTER",
-        "numberOfHouses": 387,
-        "averagePrice": 2184265,
-        "minPrice": 10000,
-        "maxPrice": 40250000,
-        "latlng": [
-            109.6928, -7.2741
-        ],
-        "priceIndicator": 5
-    },
-    {
-        "county": "BARKING AND DAGENHAM",
-        "numberOfHouses": 244,
-        "averagePrice": 343405,
-        "minPrice": 110000,
-        "maxPrice": 5536000,
-        "latlng": [
-            109.6985, -7.2765
-        ],
-        "priceIndicator": 0.7860882264743518
-    },
-    {
-        "county": "NEWHAM",
-        "numberOfHouses": 477,
-        "averagePrice": 445765,
-        "minPrice": 12500,
-        "maxPrice": 9135714,
-        "latlng": [
-            109.6961, -7.2791
-        ],
-        "priceIndicator": 3.020400455072988
-    },
-    {
-        "county": "HOUNSLOW",
-        "numberOfHouses": 244,
-        "averagePrice": 533088,
-        "minPrice": 15000,
-        "maxPrice": 6400000,
-        "latlng": [
-            109.6971, -7.2726
-        ],
-        "priceIndicator": 3.2202914939350307
-    },
-    {
-        "county": "WALTHAM FOREST",
-        "numberOfHouses": 335,
-        "averagePrice": 468884,
-        "minPrice": 14000,
-        "maxPrice": 4930000,
-        "latlng": [
-            109.6910, -7.2780
-        ],
-        "priceIndicator": 3.0733221472669296
-    },
-    {
-        "county": "BEXLEY",
-        "numberOfHouses": 432,
-        "averagePrice": 358218,
-        "minPrice": 11000,
-        "maxPrice": 1900000,
-        "latlng": [
-		109.6922, -7.2747
-        ],
-        "priceIndicator": 0.8199966579146761
-    },
-    {
-        "county": "MERTON",
-        "numberOfHouses": 310,
-        "averagePrice": 707758,
-        "minPrice": 13000,
-        "maxPrice": 30300000,
-        "latlng": [
-            109.6925, -7.2701
-        ],
-        "priceIndicator": 3.6201285100480025
-    },
-    {
-        "county": "ENFIELD",
-        "numberOfHouses": 310,
-        "averagePrice": 481882,
-        "minPrice": 15000,
-        "maxPrice": 7670000,
-        "latlng": [
-            109.6943, -7.2702
-        ],
-        "priceIndicator": 3.1030758630477528
-    },
-    {
-        "county": "CITY OF LONDON",
-        "numberOfHouses": 61,
-        "averagePrice": 5598625,
-        "minPrice": 25000,
-        "maxPrice": 179000000,
-        "latlng": [
-            109.6920, -7.2721
-        ],
-        "priceIndicator": 5
-    }
-  ]
+  {
+    "county": "KENSINGTON AND CHELSEA",
+    "numberOfHouses": 248,
+    "averagePrice": 1701187,
+    "minPrice": 10000,
+    "maxPrice": 29000000,
+    "latlng": [109.6834, -7.2854],
+    "priceIndicator": 3.8941863739060967
+  },
+  {
+    "county": "BRENT",
+    "numberOfHouses": 358,
+    "averagePrice": 659674,
+    "minPrice": 32180,
+    "maxPrice": 19000000,
+    "latlng": [109.6824, -7.2867],
+    "priceIndicator": 3.5100594479149736
+  },
+  {
+    "county": "GREENWICH",
+    "numberOfHouses": 388,
+    "averagePrice": 497237,
+    "minPrice": 14500,
+    "maxPrice": 12005000,
+    "latlng": [109.6819, -7.2859],
+    "priceIndicator": 3.1382249864370853
+  },
+  {
+    "county": "REDBRIDGE",
+    "numberOfHouses": 353,
+    "averagePrice": 491970,
+    "minPrice": 17000,
+    "maxPrice": 12280000,
+    "latlng": [109.6845, -7.2884],
+    "priceIndicator": 3.126168299176153
+  },
+  {
+    "county": "BROMLEY",
+    "numberOfHouses": 522,
+    "averagePrice": 512047,
+    "minPrice": 12000,
+    "maxPrice": 6000000,
+    "latlng": [109.6812, -7.283],
+    "priceIndicator": 3.1721265505787988
+  },
+  {
+    "county": "KINGSTON UPON THAMES",
+    "numberOfHouses": 263,
+    "averagePrice": 628576,
+    "minPrice": 23000,
+    "maxPrice": 4870000,
+    "latlng": [109.6815, -7.2841],
+    "priceIndicator": 3.4365839309790707
+  },
+  {
+    "county": "TOWER HAMLETS",
+    "numberOfHouses": 400,
+    "averagePrice": 625280,
+    "minPrice": 15500,
+    "maxPrice": 23000000,
+    "latlng": [109.6852, -7.287],
+    "priceIndicator": 3.4313052674468444
+  },
+  {
+    "county": "LAMBETH",
+    "numberOfHouses": 530,
+    "averagePrice": 576100,
+    "minPrice": 18500,
+    "maxPrice": 2250000,
+    "latlng": [109.6809, -7.2868],
+    "priceIndicator": 3.3187502432168259
+  },
+  {
+    "county": "HACKNEY",
+    "numberOfHouses": 282,
+    "averagePrice": 631662,
+    "minPrice": 12000,
+    "maxPrice": 4950000,
+    "latlng": [109.6802, -7.2837],
+    "priceIndicator": 3.4459371916868062
+  },
+  {
+    "county": "ISLINGTON",
+    "numberOfHouses": 221,
+    "averagePrice": 914474,
+    "minPrice": 10000,
+    "maxPrice": 17040000,
+    "latlng": [109.6849, -7.2894],
+    "priceIndicator": 3.0933220099209575
+  },
+  {
+    "county": "HAMMERSMITH AND FULHAM",
+    "numberOfHouses": 263,
+    "averagePrice": 968879,
+    "minPrice": 29500,
+    "maxPrice": 4250000,
+    "latlng": [109.686, -7.2816],
+    "priceIndicator": 3.220149568763742
+  },
+  {
+    "county": "CAMDEN",
+    "numberOfHouses": 283,
+    "averagePrice": 1389250,
+    "minPrice": 12000,
+    "maxPrice": 36061992,
+    "latlng": [109.6821, -7.2866],
+    "priceIndicator": 3.180131531659391
+  },
+  {
+    "county": "HARROW",
+    "numberOfHouses": 268,
+    "averagePrice": 785404,
+    "minPrice": 20000,
+    "maxPrice": 37550000,
+    "latlng": [109.6861, -7.2875],
+    "priceIndicator": 3.7978679326813172
+  },
+  {
+    "county": "SOUTHWARK",
+    "numberOfHouses": 421,
+    "averagePrice": 774566,
+    "minPrice": 15000,
+    "maxPrice": 15000000,
+    "latlng": [109.6811, -7.2844],
+    "priceIndicator": 3.7730586719102306
+  },
+  {
+    "county": "BARNET",
+    "numberOfHouses": 455,
+    "averagePrice": 713198,
+    "minPrice": 10000,
+    "maxPrice": 16600000,
+    "latlng": [109.689, -7.2811],
+    "priceIndicator": 3.632581211528821
+  },
+  {
+    "county": "LEWISHAM",
+    "numberOfHouses": 456,
+    "averagePrice": 446420,
+    "minPrice": 10450,
+    "maxPrice": 1915000,
+    "latlng": [109.6817, -7.2828],
+    "priceIndicator": 3.0218998152686674
+  },
+  {
+    "county": "EALING",
+    "numberOfHouses": 337,
+    "averagePrice": 631723,
+    "minPrice": 13500,
+    "maxPrice": 19000000,
+    "latlng": [109.6884, -7.2825],
+    "priceIndicator": 3.446076826758658
+  },
+  {
+    "county": "RICHMOND UPON THAMES",
+    "numberOfHouses": 297,
+    "averagePrice": 851700,
+    "minPrice": 15000,
+    "maxPrice": 9850000,
+    "latlng": [109.6846, -7.2899],
+    "priceIndicator": 3.949626075590645
+  },
+  {
+    "county": "HARINGEY",
+    "numberOfHouses": 228,
+    "averagePrice": 657624,
+    "minPrice": 10000,
+    "maxPrice": 2650000,
+    "latlng": [109.6823, -7.2802],
+    "priceIndicator": 3.5053667938642976
+  },
+  {
+    "county": "CROYDON",
+    "numberOfHouses": 561,
+    "averagePrice": 409662,
+    "minPrice": 10000,
+    "maxPrice": 3400000,
+    "latlng": [109.6836, -7.2889],
+    "priceIndicator": 0.9377570944917398
+  },
+  {
+    "county": "HAVERING",
+    "numberOfHouses": 383,
+    "averagePrice": 370460,
+    "minPrice": 17900,
+    "maxPrice": 2500000,
+    "latlng": [109.6812, -7.2854],
+    "priceIndicator": 0.8480198144455915
+  },
+  {
+    "county": "SUTTON",
+    "numberOfHouses": 315,
+    "averagePrice": 400994,
+    "minPrice": 10000,
+    "maxPrice": 2000000,
+    "latlng": [109.6807, -7.2866],
+    "priceIndicator": 0.9179151797057592
+  },
+  {
+    "county": "HILLINGDON",
+    "numberOfHouses": 383,
+    "averagePrice": 683689,
+    "minPrice": 25000,
+    "maxPrice": 34700000,
+    "latlng": [109.6813, -7.2836],
+    "priceIndicator": 3.5650321732939914
+  },
+  {
+    "county": "WANDSWORTH",
+    "numberOfHouses": 552,
+    "averagePrice": 890353,
+    "minPrice": 10000,
+    "maxPrice": 16000000,
+    "latlng": [109.682, -7.2878],
+    "priceIndicator": 3.038106639991028
+  },
+  {
+    "county": "CITY OF WESTMINSTER",
+    "numberOfHouses": 387,
+    "averagePrice": 2184265,
+    "minPrice": 10000,
+    "maxPrice": 40250000,
+    "latlng": [109.6828, -7.2841],
+    "priceIndicator": 5
+  },
+  {
+    "county": "BARKING AND DAGENHAM",
+    "numberOfHouses": 244,
+    "averagePrice": 343405,
+    "minPrice": 110000,
+    "maxPrice": 5536000,
+    "latlng": [109.6885, -7.2865],
+    "priceIndicator": 0.7860882264743518
+  },
+  {
+    "county": "NEWHAM",
+    "numberOfHouses": 477,
+    "averagePrice": 445765,
+    "minPrice": 12500,
+    "maxPrice": 9135714,
+    "latlng": [109.6861, -7.2891],
+    "priceIndicator": 3.020400455072988
+  },
+  {
+    "county": "HOUNSLOW",
+    "numberOfHouses": 244,
+    "averagePrice": 533088,
+    "minPrice": 15000,
+    "maxPrice": 6400000,
+    "latlng": [109.6871, -7.2826],
+    "priceIndicator": 3.2202914939350307
+  },
+  {
+    "county": "WALTHAM FOREST",
+    "numberOfHouses": 335,
+    "averagePrice": 468884,
+    "minPrice": 14000,
+    "maxPrice": 4930000,
+    "latlng": [109.681, -7.288],
+    "priceIndicator": 3.0733221472668296
+  },
+  {
+    "county": "BEXLEY",
+    "numberOfHouses": 432,
+    "averagePrice": 358218,
+    "minPrice": 11000,
+    "maxPrice": 1900000,
+    "latlng": [109.6822, -7.2847],
+    "priceIndicator": 0.8199966579146761
+  },
+  {
+    "county": "MERTON",
+    "numberOfHouses": 310,
+    "averagePrice": 707758,
+    "minPrice": 13000,
+    "maxPrice": 30300000,
+    "latlng": [109.6825, -7.2801],
+    "priceIndicator": 3.6201285100480025
+  },
+  {
+    "county": "ENFIELD",
+    "numberOfHouses": 310,
+    "averagePrice": 481882,
+    "minPrice": 15000,
+    "maxPrice": 7670000,
+    "latlng": [109.6843, -7.2802],
+    "priceIndicator": 3.1030758630477528
+  },
+  {
+    "county": "CITY OF LONDON",
+    "numberOfHouses": 61,
+    "averagePrice": 5598625,
+    "minPrice": 25000,
+    "maxPrice": 179000000,
+    "latlng": [109.682, -7.2821],
+    "priceIndicator": 5
+  },
+  {
+    "county": "KENSINGTON AND CHELSEA",
+    "numberOfHouses": 248,
+    "averagePrice": 1701187,
+    "minPrice": 10000,
+    "maxPrice": 29000000,
+    "latlng": [109.6934, -7.2754],
+    "priceIndicator": 3.8941863739060967
+  },
+  {
+    "county": "BRENT",
+    "numberOfHouses": 358,
+    "averagePrice": 659674,
+    "minPrice": 32180,
+    "maxPrice": 19000000,
+    "latlng": [109.6924, -7.2767],
+    "priceIndicator": 3.5100594479149736
+  },
+  {
+    "county": "GREENWICH",
+    "numberOfHouses": 388,
+    "averagePrice": 497237,
+    "minPrice": 14500,
+    "maxPrice": 12005000,
+    "latlng": [109.6919, -7.2759],
+    "priceIndicator": 3.1382249864370853
+  },
+  {
+    "county": "REDBRIDGE",
+    "numberOfHouses": 353,
+    "averagePrice": 491970,
+    "minPrice": 17000,
+    "maxPrice": 12270000,
+    "latlng": [109.6945, -7.2784],
+    "priceIndicator": 3.126168299176153
+  },
+  {
+    "county": "BROMLEY",
+    "numberOfHouses": 522,
+    "averagePrice": 512047,
+    "minPrice": 12000,
+    "maxPrice": 6000000,
+    "latlng": [109.6912, -7.273],
+    "priceIndicator": 3.1721265505787988
+  },
+  {
+    "county": "KINGSTON UPON THAMES",
+    "numberOfHouses": 263,
+    "averagePrice": 627576,
+    "minPrice": 23000,
+    "maxPrice": 4870000,
+    "latlng": [109.6915, -7.2741],
+    "priceIndicator": 3.4365839309790707
+  },
+  {
+    "county": "TOWER HAMLETS",
+    "numberOfHouses": 400,
+    "averagePrice": 625270,
+    "minPrice": 15500,
+    "maxPrice": 23000000,
+    "latlng": [109.6952, -7.277],
+    "priceIndicator": 3.4313052674469444
+  },
+  {
+    "county": "LAMBETH",
+    "numberOfHouses": 530,
+    "averagePrice": 576100,
+    "minPrice": 18500,
+    "maxPrice": 2250000,
+    "latlng": [109.6909, -7.2769],
+    "priceIndicator": 3.3187502432168259
+  },
+  {
+    "county": "HACKNEY",
+    "numberOfHouses": 282,
+    "averagePrice": 631662,
+    "minPrice": 12000,
+    "maxPrice": 4950000,
+    "latlng": [109.6902, -7.2737],
+    "priceIndicator": 3.4459371916869062
+  },
+  {
+    "county": "ISLINGTON",
+    "numberOfHouses": 221,
+    "averagePrice": 914474,
+    "minPrice": 10000,
+    "maxPrice": 17040000,
+    "latlng": [109.6949, -7.2794],
+    "priceIndicator": 3.0933220099209575
+  },
+  {
+    "county": "HAMMERSMITH AND FULHAM",
+    "numberOfHouses": 263,
+    "averagePrice": 969879,
+    "minPrice": 29500,
+    "maxPrice": 4250000,
+    "latlng": [109.696, -7.2716],
+    "priceIndicator": 3.220149569763742
+  },
+  {
+    "county": "CAMDEN",
+    "numberOfHouses": 273,
+    "averagePrice": 1389250,
+    "minPrice": 12000,
+    "maxPrice": 36061992,
+    "latlng": [109.6921, -7.2766],
+    "priceIndicator": 3.180131531659391
+  },
+  {
+    "county": "HARROW",
+    "numberOfHouses": 268,
+    "averagePrice": 785404,
+    "minPrice": 20000,
+    "maxPrice": 37550000,
+    "latlng": [109.6961, -7.2775],
+    "priceIndicator": 3.7978679326913172
+  },
+  {
+    "county": "SOUTHWARK",
+    "numberOfHouses": 421,
+    "averagePrice": 774566,
+    "minPrice": 15000,
+    "maxPrice": 15000000,
+    "latlng": [109.6911, -7.2744],
+    "priceIndicator": 3.7730586719102306
+  },
+  {
+    "county": "BARNET",
+    "numberOfHouses": 455,
+    "averagePrice": 713198,
+    "minPrice": 10000,
+    "maxPrice": 16600000,
+    "latlng": [109.699, -7.2711],
+    "priceIndicator": 3.632581211528821
+  },
+  {
+    "county": "LEWISHAM",
+    "numberOfHouses": 456,
+    "averagePrice": 446420,
+    "minPrice": 10450,
+    "maxPrice": 1915000,
+    "latlng": [109.6917, -7.2727],
+    "priceIndicator": 3.0218998152696674
+  },
+  {
+    "county": "EALING",
+    "numberOfHouses": 337,
+    "averagePrice": 631723,
+    "minPrice": 13500,
+    "maxPrice": 19000000,
+    "latlng": [109.6984, -7.2725],
+    "priceIndicator": 3.446076826758658
+  },
+  {
+    "county": "RICHMOND UPON THAMES",
+    "numberOfHouses": 297,
+    "averagePrice": 851700,
+    "minPrice": 15000,
+    "maxPrice": 9850000,
+    "latlng": [109.6946, -7.2799],
+    "priceIndicator": 3.949626075590645
+  },
+  {
+    "county": "HARINGEY",
+    "numberOfHouses": 227,
+    "averagePrice": 657624,
+    "minPrice": 10000,
+    "maxPrice": 2650000,
+    "latlng": [109.6923, -7.2702],
+    "priceIndicator": 3.5053667938642976
+  },
+  {
+    "county": "CROYDON",
+    "numberOfHouses": 561,
+    "averagePrice": 409662,
+    "minPrice": 10000,
+    "maxPrice": 3400000,
+    "latlng": [109.6936, -7.2789],
+    "priceIndicator": 0.9377570944917398
+  },
+  {
+    "county": "HAVERING",
+    "numberOfHouses": 383,
+    "averagePrice": 370460,
+    "minPrice": 17900,
+    "maxPrice": 2500000,
+    "latlng": [109.6912, -7.2754],
+    "priceIndicator": 0.8480198144455915
+  },
+  {
+    "county": "SUTTON",
+    "numberOfHouses": 315,
+    "averagePrice": 400994,
+    "minPrice": 10000,
+    "maxPrice": 2000000,
+    "latlng": [109.6907, -7.2766],
+    "priceIndicator": 0.9179151797057592
+  },
+  {
+    "county": "HILLINGDON",
+    "numberOfHouses": 383,
+    "averagePrice": 683689,
+    "minPrice": 25000,
+    "maxPrice": 34700000,
+    "latlng": [109.6913, -7.2736],
+    "priceIndicator": 3.5650321732939914
+  },
+  {
+    "county": "WANDSWORTH",
+    "numberOfHouses": 552,
+    "averagePrice": 890353,
+    "minPrice": 10000,
+    "maxPrice": 16000000,
+    "latlng": [109.692, -7.2778],
+    "priceIndicator": 3.038106639991027
+  },
+  {
+    "county": "CITY OF WESTMINSTER",
+    "numberOfHouses": 387,
+    "averagePrice": 2184265,
+    "minPrice": 10000,
+    "maxPrice": 40250000,
+    "latlng": [109.6928, -7.2741],
+    "priceIndicator": 5
+  },
+  {
+    "county": "BARKING AND DAGENHAM",
+    "numberOfHouses": 244,
+    "averagePrice": 343405,
+    "minPrice": 110000,
+    "maxPrice": 5536000,
+    "latlng": [109.6985, -7.2765],
+    "priceIndicator": 0.7860882264743518
+  },
+  {
+    "county": "NEWHAM",
+    "numberOfHouses": 477,
+    "averagePrice": 445765,
+    "minPrice": 12500,
+    "maxPrice": 9135714,
+    "latlng": [109.6961, -7.2791],
+    "priceIndicator": 3.020400455072988
+  },
+  {
+    "county": "HOUNSLOW",
+    "numberOfHouses": 244,
+    "averagePrice": 533088,
+    "minPrice": 15000,
+    "maxPrice": 6400000,
+    "latlng": [109.6971, -7.2726],
+    "priceIndicator": 3.2202914939350307
+  },
+  {
+    "county": "WALTHAM FOREST",
+    "numberOfHouses": 335,
+    "averagePrice": 468884,
+    "minPrice": 14000,
+    "maxPrice": 4930000,
+    "latlng": [109.691, -7.278],
+    "priceIndicator": 3.0733221472669296
+  },
+  {
+    "county": "BEXLEY",
+    "numberOfHouses": 432,
+    "averagePrice": 358218,
+    "minPrice": 11000,
+    "maxPrice": 1900000,
+    "latlng": [109.6922, -7.2747],
+    "priceIndicator": 0.8199966579146761
+  },
+  {
+    "county": "MERTON",
+    "numberOfHouses": 310,
+    "averagePrice": 707758,
+    "minPrice": 13000,
+    "maxPrice": 30300000,
+    "latlng": [109.6925, -7.2701],
+    "priceIndicator": 3.6201285100480025
+  },
+  {
+    "county": "ENFIELD",
+    "numberOfHouses": 310,
+    "averagePrice": 481882,
+    "minPrice": 15000,
+    "maxPrice": 7670000,
+    "latlng": [109.6943, -7.2702],
+    "priceIndicator": 3.1030758630477528
+  },
+  {
+    "county": "CITY OF LONDON",
+    "numberOfHouses": 61,
+    "averagePrice": 5598625,
+    "minPrice": 25000,
+    "maxPrice": 179000000,
+    "latlng": [109.692, -7.2721],
+    "priceIndicator": 5
+  }
+]

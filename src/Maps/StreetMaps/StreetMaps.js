@@ -5,7 +5,7 @@ import DrawControl from "react-mapbox-gl-draw";
 import { ContextType } from "../../Context";
 
 const config = require("../config.json");
-const blokjson = require("./blok.json");
+const streetjson = require("./Street.json");
 
 const Map = ReactMapboxGl({
   accessToken: config.token,
@@ -14,11 +14,11 @@ const Map = ReactMapboxGl({
 
 const koordinat = [109.69529722278546, -7.274046779057944];
 
-class Maps extends Component {
+class StreetMaps extends Component {
   static contextType = ContextType;
   componentDidMount() {
-    this.context.setTitle("Peta Blok Wilayah");
-    this.context.setSidebar("main-blok");
+    this.context.setTitle("PETA JALAN DESA");
+    this.context.setSidebar("main-jalan");
   }
 
   componentWillUnmount() {
@@ -26,11 +26,11 @@ class Maps extends Component {
     this.context.setSidebar("main-menu");
   }
 
-  _polygonLoad = (draw, event) => {
-    blokjson.features.map((data, i) => {
+  _streetLoad = (draw, event) => {
+    streetjson.features.map((data, i) => {
       if (draw) {
         draw.draw.add({
-          type: "Polygon",
+          type: data.geometry.type,
           key: i,
           coordinates: data.geometry.coordinates,
           id: data._id,
@@ -39,21 +39,13 @@ class Maps extends Component {
     });
   };
 
-  _polygonSelected = (polygon, event) => {
-    if (polygon.features[0]) {
-      this.context.setSidebar("detail-blok");
-    } else {
-      this.context.setSidebar("main-blok");
-    }
-  };
-
   render() {
     return (
       <Map
         style={config.styles}
         containerStyle={config.container}
         center={koordinat}
-        zoom={config.zoom}
+        zoom={[15]}
       >
         <Layer
           type="symbol"
@@ -61,20 +53,17 @@ class Maps extends Component {
           layout={{ "icon-image": "marker-15" }}
         />
         <DrawControl
-          onDrawSelectionChange={this._polygonSelected}
           position="top-right"
           displayControlsDefault={false}
           controls={{
-            polygon: true,
+            line_string: true,
             trash: true,
-            combine_features: true,
-            uncombine_features: true,
           }}
-          ref={this._polygonLoad}
+          ref={this._streetLoad}
         />
       </Map>
     );
   }
 }
 
-export default Maps;
+export default StreetMaps;
